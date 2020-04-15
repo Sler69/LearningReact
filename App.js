@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import './App.css';
-import Student from './Student'
-import PrintCountMax10 from './PrintCountMax10'
+import Student from './Components/Student'
+import PrintCountMax10 from './Components/PrintCountMax10'
 
 const App = () => {
 
